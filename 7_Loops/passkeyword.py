@@ -1,0 +1,7 @@
+for i in range(56):
+    pass         #it instructs to do nothing
+
+i=0
+while(i<45):
+    print(i)
+    i += 1
